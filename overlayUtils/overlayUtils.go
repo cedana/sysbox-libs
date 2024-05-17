@@ -22,8 +22,8 @@ import (
 	"fmt"
 	"strings"
 
+	"github.com/cedana/sysbox-libs/mount"
 	mapset "github.com/deckarep/golang-set"
-	"github.com/nestybox/sysbox-libs/mount"
 	"golang.org/x/sys/unix"
 )
 

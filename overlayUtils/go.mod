@@ -1,3 +1,3 @@
-module github.com/nestybox/sysbox-libs/overlayUtils
+module github.com/cedana/sysbox-libs/overlayUtils
 
 go 1.18
